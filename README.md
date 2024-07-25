@@ -1,5 +1,5 @@
 ### Howdy! 👋🤠 The name's Dip, but you can call me Dip 
-                                                    (apologies my name doesn't get any shorter than this)
+                                                    (apologies my name doesn't get any shorter than this 😂)
 
 I'm a student at The University of Melbourne currently studying Computer Science with a Major in Computation and Software Systems
 
