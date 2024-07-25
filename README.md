@@ -1,6 +1,14 @@
-##Howdy! 👋🤠 The name's Dip
+Howdy! 👋🤠 The name's Dip
 
 I'm a student at The University of Melbourne currently studying Computer Science with a Major in Computation and Software Systems
+
+😄 Check out my [portfolio](https://diprrai.github.io/onlinePortfolio/index.html) for some of my projects that you can interract with online!
+
+🤔 My interests include:
+  -Webdevelopment
+  -Artificial intelligence, particularly LLM's and Reinforcement Models but i'm also learning other models.
+  -Robotics
+
 
 <!--
 **DipRRai/DipRRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
