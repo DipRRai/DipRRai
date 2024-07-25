@@ -1,4 +1,4 @@
-Howdy! 👋🤠 The name's Dip
+### Howdy! 👋🤠 The name's Dip, but you can call me Dip (sorry my name doesn't get any shorter than this)
 
 I'm a student at The University of Melbourne currently studying Computer Science with a Major in Computation and Software Systems
 
@@ -6,8 +6,14 @@ I'm a student at The University of Melbourne currently studying Computer Science
 
 🤔 My interests include:
   -Webdevelopment
-  -Artificial intelligence, particularly LLM's and Reinforcement Models but i'm also learning other models.
-  -Robotics
+  -Artificial intelligence, particularly LLM's and Reinforcement Models, Classification through Computer Vision etc.. but i'm also self studying other models as required for 
+   my projects.
+  -Robotics (i'm fairly new but i've had a go with some arduino programming)
+  
+🌱I'm familiar with Pythons, Javascript, Java, C, C#, HTML, CSS, React, Node.js, Express, Tensorflow, Matplotlib, Tkinter, Numpy
+   You name it and i've probably tinkered around with it. 
+   
+🔭Always eager to learn new frameworks and develop my skills as a programmer. 
 
 
 <!--
