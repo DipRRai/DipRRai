@@ -6,7 +6,7 @@ I'm a student at The University of Melbourne currently studying Computer Science
 😄 Check out my [portfolio](https://diprrai.github.io/onlinePortfolio/index.html) for some of my projects that you can interract with online!
 
 🤔 My interests include:
--Webdevelopment
+  -Webdevelopment
   -Artificial intelligence, particularly LLM's and Reinforcement Models, Classification through Computer Vision etc.. but i'm also self studying other models as required for 
    my projects.
   -Robotics (i'm fairly new but i've had a go with some arduino programming)
