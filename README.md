@@ -3,18 +3,18 @@
 
 I'm a student at The University of Melbourne currently studying Computer Science with a Major in Computation and Software Systems
 
-😄 Check out my [portfolio](https://diprrai.github.io/onlinePortfolio/index.html) for some of my projects that you can interract with online!
+😄 Check out my [portfolio](https://diprrai.github.io/onlinePortfolio/index.html) for some of my projects that you can interact with online!
 
 🤔 My interests include:
-  -Webdevelopment
-  -Artificial intelligence, particularly LLM's and Reinforcement Models, Classification through Computer Vision etc.. but i'm also self studying other models as required for 
-   my projects.
-  -Robotics (i'm fairly new but i've had a go with some arduino programming)
-  
-🌱I'm familiar with Pythons, Javascript, Java, C, C#, HTML, CSS, React, Node.js, Express, Tensorflow, Matplotlib, Tkinter, Numpy
-   You name it and i've probably tinkered around with it. 
+
+  - Webdevelopment
+  - Artificial intelligence, particularly LLM's and Reinforcement Models, Classification through Computer Vision etc.. but I'm also self-studying other models as required for my projects.
+  - Robotics (I'm fairly new but I've had a go with some Arduino programming)
+
+🌱 I'm familiar with Python, JavaScript, Java, C, C#, HTML, CSS, React, Node.js, Express, TensorFlow, Matplotlib, Tkinter, NumPy
+   You name it and I've probably tinkered around with it. 
    
-🔭Always eager to learn new frameworks and develop my skills as a programmer. 
+🔭 Always eager to learn new frameworks and develop my skills as a programmer. 
 
 
 <!--
