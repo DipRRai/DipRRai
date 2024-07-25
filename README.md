@@ -1,4 +1,6 @@
-## Hi there 👋
+Howdy! 👋🤠 The name's Dip
+
+I'm a student at The University of Melbourne currently studying Computer Science with a Major in Computation and Software Systems
 
 <!--
 **DipRRai/DipRRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
