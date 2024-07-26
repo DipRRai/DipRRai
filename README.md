@@ -10,7 +10,7 @@ I'm a student at The University of Melbourne currently studying Computer Science
 
   - Webdevelopment
   - Artificial intelligence, particularly LLM's and Reinforcement Models, Classification through Computer Vision etc.. but I'm also self-studying other models as required for my projects.
-  - Robotics (I'm fairly new but I've had a go with some Arduino programming)
+  - Robotics (I'm fairly new but i am currently learning Arduino programming)
 
 🌱 I'm familiar with Python, JavaScript, Java, C, C#, HTML, CSS, React, Node.js, Express, TensorFlow, Matplotlib, Tkinter, NumPy
    You name it and I've probably tinkered around with it. 
