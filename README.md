@@ -5,6 +5,7 @@
 I'm a student at The University of Melbourne currently studying Computer Science with a Major in Computation and Software Systems
 
 😄 Check out my [portfolio](https://diprrai.github.io/onlinePortfolio/index.html) for some of my projects that you can interact with online!
+![Leetcode Stats](https://leetcard.jacoblin.cool/superderped)
 
 🤔 My interests include:
 
