@@ -17,7 +17,7 @@ I'm a student at The University of Melbourne currently studying Computer Science
    
 🔭 Always eager to learn new frameworks and develop my skills as a programmer. 
 
-![](https://leetcard.jacoblin.cool/superderped?cache=0)
+![Leetcode Stats](https://leetcard.jacoblin.cool/superderped?ext=heatmap)
 
 
 <!--
